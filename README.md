@@ -12,8 +12,10 @@ A collection of UI/UX designs I've created using Figma. This portfolio showcases
 ### Project 2: Modern Hero Page
 - **Tools:** Figma, Auto,Layout, Components.
  <img width="1920" height="1742" alt="Hero section 1" src="https://github.com/user-attachments/assets/304c68db-15e6-42f6-a631-c662f0713380" />
+ 
 ### Project 3.0: Modern Cards 
 - **Tools:** Figma,Components.
 - <img width="1920" height="2333" alt="card section" src="https://github.com/user-attachments/assets/757f02e4-0458-4016-97d5-f6f4704b3a61" />
+
 ### Project 3.1: Modern Cards 
 <img width="1920" height="2208" alt="card section 2" src="https://github.com/user-attachments/assets/f81e9f7e-7893-4bed-acbd-4ab60798bf49" />
