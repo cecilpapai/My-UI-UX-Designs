@@ -25,7 +25,7 @@ A collection of UI/UX designs I've created using Figma. This portfolio showcases
 - **Tools:** Figma,Components.
 
 ### Project 5: Interactive Flows
-https://www.figma.com/proto/IGWzb7sJjZBsWbuxV87sjA/Untitled?page-id=0%3A1&node-id=4-2&viewport=-7%2C2%2C0.53&t=dg1oWfiErl88Cbss-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=4%3A2
+[https://www.figma.com/proto/IGWzb7sJjZBsWbuxV87sjA/Untitled?page-id=0%3A1&node-id=4-2&viewport=-7%2C2%2C0.53&t=dg1oWfiErl88Cbss-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=4%3A2](https://www.figma.com/proto/IGWzb7sJjZBsWbuxV87sjA/AURA-music-app-interactive-flow?page-id=0%3A1&node-id=4-2&viewport=-7%2C2%2C0.53&t=dg1oWfiErl88Cbss-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=4%3A2)
    --SCREENSHOTS--
  <img width="1121" height="585" alt="music app flow" src="https://github.com/user-attachments/assets/7506e3b1-f319-4dfc-992d-ff9fb6ad0a0c" />
 <img width="1104" height="575" alt="music app flow 2" src="https://github.com/user-attachments/assets/7c0b2c63-8740-464a-9688-97b7afa82f47" />
