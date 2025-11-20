@@ -23,3 +23,8 @@ A collection of UI/UX designs I've created using Figma. This portfolio showcases
 
 ### Project 4: Modern Cards 
 - **Tools:** Figma,Components.
+
+### Project 5: Interactive Flows
+https://www.figma.com/proto/IGWzb7sJjZBsWbuxV87sjA/Untitled?page-id=0%3A1&node-id=4-2&viewport=-7%2C2%2C0.53&t=dg1oWfiErl88Cbss-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=4%3A2
+<img width="1052" height="565" alt="music app" src="https://github.com/user-attachments/assets/abdc4fcf-9770-4b9b-95aa-690c34a3fe02" />
+
