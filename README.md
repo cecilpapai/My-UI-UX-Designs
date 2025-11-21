@@ -28,6 +28,7 @@ A collection of UI/UX designs I've created using Figma. This portfolio showcases
 [https://www.figma.com/proto/IGWzb7sJjZBsWbuxV87sjA/Untitled?page-id=0%3A1&node-id=4-2&viewport=-7%2C2%2C0.53&t=dg1oWfiErl88Cbss-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=4%3A2](https://www.figma.com/proto/IGWzb7sJjZBsWbuxV87sjA/AURA-music-app-interactive-flow?page-id=0%3A1&node-id=4-2&viewport=-7%2C2%2C0.53&t=dg1oWfiErl88Cbss-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=4%3A2)
    --SCREENSHOTS--
 <img width="1710" height="941" alt="aura music" src="https://github.com/user-attachments/assets/5fc96b60-5584-45d4-9e29-d342890b2657" />
-<img width="1104" height="575" alt="music app flow 2" src="https://github.com/user-attachments/assets/7c0b2c63-8740-464a-9688-97b7afa82f47" />
+<img width="1831" height="812" alt="image" src="https://github.com/user-attachments/assets/6d594b19-282e-462e-887f-2da678920ce2" />
+
 
 
