@@ -5,7 +5,9 @@ A collection of UI/UX designs I've created using Figma. This portfolio showcases
 
 ## 🚀 Featured Projects
 ### Project 1: Modern Travel website
-![Uploading MacBook Pro 14_ - 1.png…]()
+ <img width="1525" height="1005" alt="MacBook Pro 14_ - 1" src="https://github.com/user-attachments/assets/be61c7bf-9882-4809-852e-5338ade2ab3b" />
+ view in figma link: https://www.figma.com/proto/QNN8Wvqa0sXNzYC70oChbZ/Untitled?node-id=0-1&t=Zl8l0v5lmxZ916G4-1
+
 
 ### Project 2: Modern car website
  <img width="1252" height="3815" alt="Desktop - 2" src="https://github.com/user-attachments/assets/b74ecf97-b74f-45e9-b614-7c7f25f5808a" />
