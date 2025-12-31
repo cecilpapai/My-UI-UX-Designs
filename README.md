@@ -8,6 +8,9 @@ A collection of UI/UX designs I've created using Figma. This portfolio showcases
  <img width="1525" height="1005" alt="MacBook Pro 14_ - 1" src="https://github.com/user-attachments/assets/be61c7bf-9882-4809-852e-5338ade2ab3b" />
  view in figma link: https://www.figma.com/proto/QNN8Wvqa0sXNzYC70oChbZ/Untitled?node-id=0-1&t=Zl8l0v5lmxZ916G4-1
 
+### Project 1.2: Modern smart Animated Pizza Resturant
+<img width="1520" height="990" alt="Frame 1" src="https://github.com/user-attachments/assets/5bbbee47-289b-43a4-839a-64ab0658ea89" />
+ view in figma link: https://www.figma.com/proto/yAQIjlbQmLJBYPbDM3Tx91/Pizza-Resturant?node-id=1-2&t=MiHmUpXcucTdfPUB-1
 
 ### Project 2: Modern car website
  <img width="1252" height="3815" alt="Desktop - 2" src="https://github.com/user-attachments/assets/b74ecf97-b74f-45e9-b614-7c7f25f5808a" />
